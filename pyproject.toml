@@ -1,10 +1,9 @@
 [project]
 name = "test-mexica"
 version = "0.1.0"
-description = "Add your description here"
+description = "Console chat assistant that uses Ollama and DeepSeek-R1"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "fastapi>=0.136.1",
-    "uvicorn>=0.47.0",
+    "pyinstaller>=6.0",
 ]
